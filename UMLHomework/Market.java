@@ -1,5 +1,5 @@
 package GA.homework.UMLHomework;
 
-public class Market {
+public interface Market {
     public void bookTrade(Asset a){};
 }
